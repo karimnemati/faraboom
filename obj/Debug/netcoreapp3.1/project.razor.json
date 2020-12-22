@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\faraboom.csproj",
+  "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,123 +14392,153 @@
   "RootNamespace": "faraboom",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Login\\Forgotpass.cshtml",
-      "TargetPath": "Views\\Login\\Forgotpass.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Test\\Client.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Test\\Client.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Login\\Login.cshtml",
-      "TargetPath": "Views\\Login\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Paya.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Paya.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Card.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Card.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Satna.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Satna.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Login\\Register.cshtml",
-      "TargetPath": "Views\\Login\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Login\\Index.cshtml",
-      "TargetPath": "Views\\Login\\Index.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Charge\\Municipality.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Charge\\Municipality.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\_MenuPartial.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\_MenuPartial.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Shared\\_MenuPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\Login\\RegisterAgency.cshtml",
-      "TargetPath": "Views\\Login\\RegisterAgency.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Areas\\Admin\\Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Internal.cshtml",
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Charge\\Charge.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Charge\\Charge.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Paya.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Paya.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Card.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Card.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Login\\Login.cshtml",
+      "TargetPath": "Views\\Login\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Login\\Forgotpass.cshtml",
+      "TargetPath": "Views\\Login\\Forgotpass.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Internal.cshtml",
       "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Internal.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Charge\\Invoicebill.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Charge\\Invoicebill.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Test\\Index.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Test\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Login\\Register.cshtml",
+      "TargetPath": "Views\\Login\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\Charge\\bill.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\Charge\\bill.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Views\\Login\\RegisterAgency.cshtml",
+      "TargetPath": "Views\\Login\\RegisterAgency.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\Areas\\Admin\\Views\\MoneyTransfer\\Satna.cshtml",
+      "TargetPath": "Areas\\Admin\\Views\\MoneyTransfer\\Satna.cshtml",
       "FileKind": "mvc"
     }
   ],

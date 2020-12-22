@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\faraboom.csproj": {}
+    "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\faraboom.csproj": {
+    "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\faraboom.csproj",
+        "projectUniqueName": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
         "projectName": "faraboom",
-        "projectPath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\faraboom.csproj",
+        "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
         "packagesPath": "C:\\Users\\Neati\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Neati\\Desktop\\Faraboom\\faraboom\\obj\\",
+        "outputPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,6 +39,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.8, )"

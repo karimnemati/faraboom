@@ -2,12 +2,15 @@
 <html lang="en" dir="rtl">
 
 <head>
+	
+	
+	
 	<meta charset="utf-8">
 	<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
-	<meta content="قالب مدیریتی Ansta" name="description">
+	<meta content="پیشخوان نیکاتک" name="description">
 
 	<!-- Title -->
-	<title>قالب مدیریتی Ansta</title>
+	<title>پیشخوان نیکاتک</title>
 
 	<!-- Favicon -->
 	<link href="~/admin/assets/img/brand/favicon.png" rel="icon" type="image/png">
@@ -25,7 +28,7 @@
 	<!-- Ansta CSS -->
 	<link href="~/admin/assets/css/dashboard.css" rel="stylesheet" type="text/css">
 	<link href="~/admin/assets/css/hover.css" rel="stylesheet" type="text/css">
-
+     <script src="~/admin/assets/js/Date.js"></script>
 	<!-- Tabs CSS -->
 	<link href="~/admin/assets/plugins/tabs/style.css" rel="stylesheet" type="text/css">
 
@@ -55,7 +58,7 @@
 
 </head>
 
-<body class="app sidebar-mini rtl">
+<body class="app sidebar-mini rtl" >
 	<div id="global-loader"></div>
 	<div class="page">
 		<div class="page-main">
@@ -256,12 +259,13 @@
 
 						<!-- Page content -->
 						<div class="container-fluid pt-8">
-							<div class="page-header mt-0 shadow p-3">
-								<ol class="breadcrumb mb-sm-0">
-									<li class="breadcrumb-item"><a href="#">خانه</a></li>
-									<li class="breadcrumb-item active" aria-current="page">داشبورد</li>
-								</ol>
-								<div class="btn-group mb-0">
+							<div class="page-header mt-0 shadow p-3" style="direction: ltr;">
+							<span    > <script>document.write("<div style=' text-align:left;line-height:100%;font-size:14px;'> "+week[d]+" "+day+" "+months[month-1]+" "+ year + "</div>");</script></span>
+								@* <ol >
+
+									<a> <img src="~/admin/assets/img/brand/Emam.jpg" class="navbar-brand-img" alt="..."> </a>
+								</ol> *@
+								@* <div class="btn-group mb-0">
 									<button type="button" class="btn btn-primary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">اقدامات</button>
 									<div class="dropdown-menu" x-placement="bottom-start" style="position: absolute; transform: translate3d(-65px, 27px, 0px); top: 0px; left: 0px; will-change: transform;">
 										<a class="dropdown-item" href="#"><i class="fas fa-plus mr-2"></i>افزودن صفحه
@@ -273,7 +277,7 @@
 										<div class="dropdown-divider"></div>
 										<a class="dropdown-item" href="#"><i class="fas fa-cog mr-2"></i> تنظیمات</a>
 									</div>
-								</div>
+								</div> *@
 							</div>
                             @RenderBody()
 
@@ -282,14 +286,14 @@
 							<!-- Footer -->
 							<footer class="footer">
 								<div class="row align-items-center justify-content-xl-between">
-									<div class="col-xl-6">
+									@* <div class="col-xl-6">
 										<div class="copyright text-center text-xl-right text-muted">
 											<p class="text-sm font-weight-500">Copyright 2018 © تمامی حقوق محفوظ است</p>
 										</div>
 									</div>
 									<div class="col-xl-6">
 
-									</div>
+									</div> *@
 								</div>
 							</footer>
 							<!-- Footer -->
@@ -335,6 +339,8 @@
 	<!-- Ansta JS -->
 	<script src="~/admin/assets/js/custom.js"></script>
 	<script src="~/admin/assets/js/dashboard-sales.js"></script>
+	
+
 
 </body>
 
