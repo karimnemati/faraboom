@@ -36,6 +36,7 @@ namespace farboom.Controllers {
             return View ();
         }
         public IActionResult Register () {
+            
             return View ();
         }
         public IActionResult RegisterAgency () {

@@ -1141,3 +1141,5 @@ c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\V
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Faq.cshtml.g.cs
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Ourteam.cshtml.g.cs
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ReserveToken\Index.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OAuth\Index.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OwnerCard\Index.cshtml.g.cs
