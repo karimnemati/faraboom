@@ -4,14 +4,14 @@
     "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj": {
+    "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
-        "projectName": "faraboom",
-        "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
+        "projectUniqueName": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj",
+        "projectName": "DataLayer",
+        "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\Neati\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\obj\\",
+        "outputPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,11 +39,91 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
+        "projectName": "faraboom",
+        "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\faraboom.csproj",
+        "packagesPath": "C:\\Users\\Neati\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\faraboom\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Neati\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj"
+              },
+              "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\ViewModel\\ViewModel.csproj": {
+                "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\ViewModel\\ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
               "version": "[5.2.7, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.8, )"
             }
@@ -62,6 +142,59 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\ViewModel\\ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\ViewModel\\ViewModel.csproj",
+        "projectName": "ViewModel",
+        "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\ViewModel\\ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Neati\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Neati\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

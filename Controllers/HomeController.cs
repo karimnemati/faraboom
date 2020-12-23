@@ -33,5 +33,36 @@ namespace faraboom.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        
+        public IActionResult Gallery()
+        {
+            return View();
+        }
+        
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+        
+        public IActionResult Blog()
+        {
+            return View();
+        }
+        
+        public IActionResult ContactUs()
+        {
+            return View();
+        }
+        
+        public IActionResult Faq()
+        {
+            return View();
+        }
+        
+        public IActionResult Ourteam()
+        {
+            return View();
+        }
     }
 }
