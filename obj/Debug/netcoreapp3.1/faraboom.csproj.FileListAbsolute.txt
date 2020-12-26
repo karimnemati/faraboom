@@ -1146,3 +1146,13 @@ c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\A
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index1.cshtml.g.cs
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index2.cshtml.g.cs
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index3.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index4.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index5.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index6.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index10.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index11.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index7.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index8.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index9.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index12.cshtml.g.cs
