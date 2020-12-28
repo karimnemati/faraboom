@@ -67,7 +67,7 @@
                 <div class="col-lg-3 col-6 mr-auto">
                     <div class="d-flex flex-column">
                         <span class="text-white">
-                            امروز : دوشنبه 22 ارديبهشت 1399
+                            امروز : یکشنبه 07 دی 1399
                         </span>
                         <form class="d-sm-block d-none">
                             <div class="input-group mb-3">
@@ -94,13 +94,13 @@
 
                 <div class="extension-nav">
                     <ul class="pt-2">
-                        <li>
+                        @* <li>
                             <a id="loginbtn" href="/login/Login" class="btn btn-link p-1 ml-2">
                                 <img src="~/site/Images/Svg/login.svg"> ورود
                             </a>
-                        </li>
+                        </li> *@
                         <li>
-                            <a id="loginbtn" href="/login/Login" class="btn btn-link p-1 ml-2">
+                            <a id="loginbtn" href="/home/maplogin" class="btn btn-link p-1 ml-2">
                                 <img src="~/site/Images/Svg/user.svg">عضویت
                             </a>
                         </li>
@@ -164,9 +164,11 @@
                             </div>
                         </li>-->
                         <li><a href="/home/Gallery">گالری تصاویر</a></li>
-                        <li><a href="/home/Ourteam">معرفی مدیران</a></li>
+                        <li><a href="/home/Managers">معرفی مدیران </a></li>
                         <li><a href="/home/Blog">اخبار و رویدادها</a></li>
                         <li><a href="/home/Faq">سوالات متداول</a></li>
+                        <li><a href="/home/Delegate">معرفی نمایندگان </a></li>
+
                         <li class="dropdown">
                             @* <a href="/#" class="dropdown-toggle" data-toggle="dropdown">برگه ها<i class="fa  fa-chevron-down pr-2"></i></a>
                              <ul class="dropdown-menu">
@@ -220,7 +222,7 @@
                         <h5 class="IRANSansWeb_Medium"> لینک های سریع : </h5>
                         <ul>
                             <li>
-                                <a href="~/Site/Ourteam.html" target="_blank" title="">مدیران و معاونان</a>
+                                <a href="/home/Delegate" target="_blank" title=""> معرفی نمایندگان</a>
                             </li>
                             <li>
                                 <a href="~/Site/Blog.html" target="_blank" title="">اخبار و رویدادها</a>
@@ -240,20 +242,26 @@
                         <h5 class="IRANSansWeb_Medium">پیوندها : </h5>
                         <ul>
                             <li>
-                                <a href="~/Site/Faq.html" target="_blank" title="">سوالات متداول</a>
+                                <a href="/home/Faq" target="_blank" title="">سوالات متداول</a>
                             </li>
-
+                            <li>
+                                <a href="/home/Delegate" target="_blank" title="">نمایندگان </a>
+                            </li>
                             <li>
                                 <a href="/login/Login" target="_blank" title="">ورود</a>
                             </li>
                             <li>
                                 <a href="/login/Login" target="_blank" title="">عضویت</a>
                             </li>
+                              <li>
+                                <a href="/home/Managers" target="_blank" title=""> معرفی مدیران</a>
+                            </li>
+                            
                             <li>
-                                <a href="~/Site/AboutUs.html" target="_blank" title="">درباره ما</a>
+                                <a href="/home/AboutUs" target="_blank" title="">درباره ما</a>
                             </li>
                             <li>
-                                <a href="~/Site/ContactUs.html" target="_blank" title="">تماس با ما </a>
+                                <a  href="/home/ContactUs" target="_blank" title="">ارتباط با ما </a>
                             </li>
                         </ul>
                     </div>

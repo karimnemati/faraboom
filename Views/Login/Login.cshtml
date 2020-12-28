@@ -61,6 +61,16 @@
                                 @if (ViewBag.eror!=null) {
                                     <p class="alert alert-danger">@ViewBag.eror</p>
                                 }
+
+                                @if (ViewBag.msg  != null)
+					{
+					<p class="alert alert-success text-center">@ViewBag.msg</p>
+					}
+                    
+					@* else if (ViewBag.msg == "اطلاعات فردی با این کد ملی قبلا ثبت شده است")
+					{
+					<p class="alert alert-danger text-center">@ViewBag.msg</p>
+					} *@
                                 
                                 <form method="post" action="/Login/login_check">
                                     <div class="form-group">

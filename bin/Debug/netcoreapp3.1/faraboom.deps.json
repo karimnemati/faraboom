@@ -1965,6 +1965,7 @@
       },
       "ViewModel/1.0.0": {
         "dependencies": {
+          "DataLayer": "1.0.0",
           "Microsoft.AspNetCore.Http": "2.2.2"
         },
         "runtime": {

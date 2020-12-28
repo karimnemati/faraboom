@@ -173,7 +173,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "c:\\Users\\Neati\\Desktop\\nikatek\\Faraboom\\DataLayer\\DataLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

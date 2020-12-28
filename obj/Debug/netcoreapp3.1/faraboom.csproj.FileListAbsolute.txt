@@ -1156,3 +1156,6 @@ c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\V
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index8.cshtml.g.cs
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index9.cshtml.g.cs
 c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\SinglePage\Index12.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\Home\MapLogin.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delegate.cshtml.g.cs
+c:\Users\Neati\Desktop\nikatek\Faraboom\faraboom\obj\Debug\netcoreapp3.1\Razor\Views\Home\Managers.cshtml.g.cs
